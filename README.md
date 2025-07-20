@@ -1,4 +1,4 @@
-### Hi there👋 I'm Eunseo Yang.  
+# Hi there👋 I'm Eunseo Yang.  
 🌱 A computer science student learning backend development.
 
 ## 🛠 Tech Stack
